@@ -1,0 +1,1 @@
+This is a simple express server created to deploy it into AWS EC2 service
